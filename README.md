@@ -1,4 +1,3 @@
-# file crashed, then moved it to here https://github.com/jiajiama2/Coursera_Capstone
-will update later when got sometime
+#draft version @ Github. Linkedin version was edited and nicer formatted. I will update both the research and format later when got sometime...
 
 # Philadelphia-Neighbourhoods-for-Parents-with-Small-Children
